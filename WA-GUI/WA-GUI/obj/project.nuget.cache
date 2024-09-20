@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uNqc/SXY5ckd5ZaICzUbnl+iGq3iR5mqbA3LlgqAI2bsyxjLD+6P/cViuYPzbMavOU7mEQedJfTdmM1Ye6obBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\LMasicHTTP\\LMasicHTTP\\http_winform.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
